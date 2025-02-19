@@ -26,6 +26,9 @@ string decrypt(string& str, int num_crypt) {
 
 int start_game(int& choise)
 {
+	mciSendString(L" play resources/music/allo_ben.mp3", NULL, 0, 0);
+	PlaySound(TEXT("resources/music/allo_ben.mp3"), NULL, SND_FILENAME | SND_ASYNC);
+	sleep_for(milliseconds(3400));
 	setConsoleColor(4); //Меняет цвет текста консоли на красный
 	cout << "ver 0.1 made by L1ghtsitte" << endl;  //Да-да-да это я
 	cout << "github.com/L1ghtsitte || t.me/hellsfrik" << endl;  //Да-да-да это тоже я
@@ -45,7 +48,6 @@ int start_game(int& choise)
 	cout << "Ваш выбор : ";
 	cin >> choise;
 	setConsoleColor(7); //Меняет цвет текста консоли обратно набелый
-
 	return choise; //Возвращаеи ваш выбор в main.cpp, где он уже будет раскидан по соответствующим case
 }
 

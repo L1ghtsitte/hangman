@@ -79,4 +79,7 @@ int main(int& attemp, int& game, int& total_win, int& total_loss)
 	cout << "Время в игре : " << game_timer.get_elapsed_time() << " секунд" << std::endl; //Выводит результат таймера
 	cout << "-----------------------------" << endl;
 	system("pause");
+	mciSendString(L" play resources/music/ben_bb.mp3", NULL, 0, 0);
+	PlaySound(TEXT("resources/music/ben_bb.mp3"), NULL, SND_FILENAME | SND_ASYNC);
+	sleep_for(milliseconds(1400));
 }

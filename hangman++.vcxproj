@@ -19,6 +19,17 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <Media Include="resources\music\allo_ben.MP3" />
+    <Media Include="resources\music\benn_ughhh.mp3" />
+    <Media Include="resources\music\ben_bb.mp3" />
+    <Media Include="resources\music\ben_haha.mp3" />
+    <Media Include="resources\music\ben_hahaha.mp3" />
+    <Media Include="resources\music\ben_hehehe.mp3" />
+    <Media Include="resources\music\ben_hyhyhy.mp3" />
+    <Media Include="resources\music\ben_mmm.mp3" />
+    <Media Include="resources\music\ben_no.mp3" />
+    <Media Include="resources\music\ben_yes.mp3" />
+    <Media Include="resources\music\ben_yy.mp3" />
     <Media Include="resources\music\loss.mp3" />
     <Media Include="resources\music\won.mp3" />
   </ItemGroup>
@@ -69,13 +80,13 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v142</PlatformToolset>
+    <PlatformToolset>v143</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>

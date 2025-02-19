@@ -21,6 +21,39 @@
     <Media Include="resources\music\won.mp3">
       <Filter>Файлы ресурсов</Filter>
     </Media>
+    <Media Include="resources\music\ben_yes.mp3">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\benn_ughhh.mp3">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\ben_haha.mp3">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\ben_no.mp3">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\ben_hehehe.mp3">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\ben_hyhyhy.mp3">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\ben_mmm.mp3">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\ben_yy.mp3">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\ben_hahaha.mp3">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\allo_ben.MP3">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\ben_bb.mp3">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
   </ItemGroup>
   <ItemGroup>
     <Text Include="resources\worlds\words_all.txt">

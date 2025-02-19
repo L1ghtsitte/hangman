@@ -9,10 +9,11 @@
 #include <chrono> //Для измерения интервалов времени 
 #include <thread> //Для того же звка
 #include <Windows.h> //Для изменения цвета в консоли
-#include <sstream> // 
+#include <sstream> // Для потоковой передачи
 
 using namespace std; //Позволяет писать сразу cout, вместо std::cout
 using namespace std::chrono; //Так же помогает ускорить процесс написания кода
+using namespace std::this_thread; //Так же помогает ускорить процесс написания задержки в коде
 
 void setConsoleColor(int colorCode); //Функция для смены цвета консоли
 void SetFullscreenMode(); //Функция полноэкраного режима
