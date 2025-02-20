@@ -9,7 +9,6 @@
 #include <chrono> //Для измерения интервалов времени 
 #include <thread> //Для того же звка
 #include <Windows.h> //Для изменения цвета в консоли
-#include <sstream> // Для потоковой передачи
 
 using namespace std; //Позволяет писать сразу cout, вместо std::cout
 using namespace std::chrono; //Так же помогает ускорить процесс написания кода

@@ -21,37 +21,37 @@
     <Media Include="resources\music\won.mp3">
       <Filter>Файлы ресурсов</Filter>
     </Media>
-    <Media Include="resources\music\ben_yes.mp3">
-      <Filter>Файлы ресурсов</Filter>
-    </Media>
-    <Media Include="resources\music\benn_ughhh.mp3">
-      <Filter>Файлы ресурсов</Filter>
-    </Media>
-    <Media Include="resources\music\ben_haha.mp3">
-      <Filter>Файлы ресурсов</Filter>
-    </Media>
-    <Media Include="resources\music\ben_no.mp3">
-      <Filter>Файлы ресурсов</Filter>
-    </Media>
-    <Media Include="resources\music\ben_hehehe.mp3">
-      <Filter>Файлы ресурсов</Filter>
-    </Media>
-    <Media Include="resources\music\ben_hyhyhy.mp3">
-      <Filter>Файлы ресурсов</Filter>
-    </Media>
-    <Media Include="resources\music\ben_mmm.mp3">
-      <Filter>Файлы ресурсов</Filter>
-    </Media>
-    <Media Include="resources\music\ben_yy.mp3">
-      <Filter>Файлы ресурсов</Filter>
-    </Media>
-    <Media Include="resources\music\ben_hahaha.mp3">
-      <Filter>Файлы ресурсов</Filter>
-    </Media>
     <Media Include="resources\music\allo_ben.MP3">
       <Filter>Файлы ресурсов</Filter>
     </Media>
     <Media Include="resources\music\ben_bb.mp3">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\ben_yes.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\ben_no.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\ben_yy.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\benn_ughhh.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\ben_haha.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\ben_hahaha.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\ben_hehehe.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\ben_hyhyhy.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="resources\music\ben_mmm.wav">
       <Filter>Файлы ресурсов</Filter>
     </Media>
   </ItemGroup>
