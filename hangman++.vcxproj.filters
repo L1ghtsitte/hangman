@@ -56,29 +56,6 @@
     </Media>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="resources\worlds\words_all.txt">
-      <Filter>Файлы ресурсов</Filter>
-    </Text>
-    <Text Include="resources\worlds\words_botany.txt">
-      <Filter>Файлы ресурсов</Filter>
-    </Text>
-    <Text Include="resources\worlds\words_city.txt">
-      <Filter>Файлы ресурсов</Filter>
-    </Text>
-    <Text Include="resources\worlds\words_fauna.txt">
-      <Filter>Файлы ресурсов</Filter>
-    </Text>
-    <Text Include="resources\worlds\words_flora.txt">
-      <Filter>Файлы ресурсов</Filter>
-    </Text>
-    <Text Include="resources\worlds\words_normal.txt">
-      <Filter>Файлы ресурсов</Filter>
-    </Text>
-    <Text Include="resources\worlds\words_physics.txt">
-      <Filter>Файлы ресурсов</Filter>
-    </Text>
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="include\hangman.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
@@ -111,5 +88,112 @@
     <ClCompile Include="timer.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="resources\words\words_all_all_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_all_easy_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_all_hard_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_all_impossible_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_all_medium_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_botany_all_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_botany_easy_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_botany_hard_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_botany_impossible_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_botany_medium_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_city_all_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_city_easy_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_city_hard_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_city_impossible_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_city_medium_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_fauna_all_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_fauna_easy_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_fauna_hard_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_fauna_impossible_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_fauna_medium_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_flora_all_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_flora_easy_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_flora_hard_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_flora_impossible_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_flora_medium_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_normal_all_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_normal_easy_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_normal_hard_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_normal_impossible_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_normal_medium_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_physics_all_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_physics_easy_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_physics_hard_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_physics_impossible_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="resources\words\words_physics_medium_crypt.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
   </ItemGroup>
 </Project>
